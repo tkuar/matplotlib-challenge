@@ -1,4 +1,4 @@
-# matplotlib-homework
+# matplotlib-challenge
 
 Note: I also included my observations about the Pymaceuticals' Data Analysis is in observations.md in addition to the juypter notebook
 
