@@ -1,6 +1,6 @@
 # matplotlib-homework
 
-Note: My observations about the Pymaceuticals' Data Analysis is in observations.txt
+Note: I also included my observations about the Pymaceuticals' Data Analysis is in observations.md in addition to the juypter notebook
 
 ## Resources (used in addition to class activities):
 
