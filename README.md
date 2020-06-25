@@ -1,6 +1,6 @@
 # matplotlib-homework
 
-##Resources (used in addition to class activities):
+## Resources (used in addition to class activities):
 
 Documentation:
           
