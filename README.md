@@ -1,5 +1,7 @@
 # matplotlib-homework
 
+Note: My observations about the Pymaceuticals' Data Analysis is in observations.txt
+
 ## Resources (used in addition to class activities):
 
 Documentation:
@@ -14,7 +16,7 @@ Documentation:
           
           https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html
           
-Other Resources:
+Other Resources (these are what led me to consult the documentation):
           
           https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-count-in-groups-using-groupby?noredirect=1&lq=1
           
